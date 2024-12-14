@@ -1,0 +1,4 @@
+Create a '.env' file in the root of your project
+Copy the entire contents of this file and paste it into .env
+
+SECRET_KEY=django-insecure-s=zi1$z^vzjsj)2856-^zw%6xs4d3_$17$ef#-l&(49j-+x%vt
