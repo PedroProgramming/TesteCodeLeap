@@ -27,8 +27,8 @@ Siga as etapas abaixo para instalar e configurar o projeto localmente.
 
 1. Clone o repositório:
 ```bash
-    git clone https://github.com/PedroProgramming/boilerplate.git
-    cd boilerplate
+    git clone https://github.com/PedroProgramming/TesteCodeLeap.git
+    cd TesteCodeLeap
 ```
 
 2. Instale as dependências do projeto:
